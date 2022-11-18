@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-//打印1000-2000年之间的闰年
+//鎵撳嵃1000-2000骞翠箣闂寸殑闂板勾
 
 int is_is(int y)
 {
