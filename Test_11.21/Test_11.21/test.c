@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-//实现数组逆序输出
+//瀹炵幇鏁扮粍鏁伴�嗗簭鎵撳嵃
 
 int main()
 {
